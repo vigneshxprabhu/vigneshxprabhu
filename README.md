@@ -74,9 +74,8 @@ vignesh@github:~$ cat contact.txt
 ```
 
 ```text
-LinkedIn : https://linkedin.com/in/YOUR_USERNAME
-X        : https://x.com/YOUR_USERNAME
-Email    : YOUR_EMAIL
+LinkedIn : https://linkedin.com/in/vigneshxprabhu
+X        : https://x.com/Vxp_rejected
 ```
 
 ---
