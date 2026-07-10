@@ -3,8 +3,6 @@ vignesh@github:~$ whoami
 
 Vignesh Prabhu
 
-Vignesh Prabhu
-
 I'm currently learning backend development by building projects,
 learning new concepts, and exploring technologies that interest me.
 My goal is simply to keep improving with every project I build.
