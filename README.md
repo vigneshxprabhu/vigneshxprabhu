@@ -3,15 +3,11 @@ vignesh@github:~$ whoami
 
 Vignesh Prabhu
 
-Backend developer passionate about building scalable backend systems,
-REST APIs, and automation tools.
+Vignesh Prabhu
 
-Currently focused on mastering Java, Spring Boot by
-building real-world projects, exploring new technologies, and learning
-how software works under the hood.
-
-My goal is to become an engineer who can take an idea from scratch
-to production while continuously improving along the way.
+I'm currently learning backend development by building projects,
+learning new concepts, and exploring technologies that interest me.
+My goal is simply to keep improving with every project I build.
 ```
 
 ---
